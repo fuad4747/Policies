@@ -1,0 +1,45 @@
+User Privacy and Data Policy for Background Remover SaaS
+
+Effective Date: December 5, 2025
+
+1. Introduction
+This policy outlines how we collect, store, use, and protect user data in our background removal service. We are committed to transparency and minimal data collection.
+
+2. Data Collection and Usage
+- We collect no personal information such as names, emails, or addresses.
+- Users are identified anonymously via unique session identifiers.
+- Data collected includes:
+  - Usage statistics for rate limiting and service management.
+  - Batch processing records (number of images, processing type, payment status).
+  - Temporary session data for workflow management.
+  - Uploaded and processed image files.
+
+3. Storage Types and Locations
+- Database: Permanent storage for usage tracking and batch records.
+- Session Storage: Temporary data during image processing workflows.
+- File Storage: Uploaded and processed images stored securely and temporarily.
+- Cache System: Session data stored temporarily for active sessions.
+
+4. Data Retention
+- Usage statistics and records: Retained permanently for service functionality.
+- Processed images: Available for download for 2 hours, then automatically deleted.
+- Temporary files: Cleaned up after payment processing (typically 2 hours).
+- Session data: Expires after 24 hours of inactivity.
+
+5. Data Security
+- All data is encrypted in transit (HTTPS) and at rest where applicable.
+- Payment processing is handled by secure third-party providers.
+- Images are processed server-side and not shared with external parties.
+- No data is sold, shared, or used for purposes beyond service delivery.
+- Images are not viewed, accessed, or used by humans; all processing is fully automated.
+
+6. User Rights
+- Users can request data deletion by contacting support (though anonymous sessions limit this).
+- Processed images are available for download within the 2-hour window.
+- Users control uploads and can avoid using the service to minimize data.
+
+7. Changes to Policy
+We may update this policy; changes will be posted here.
+
+8. Contact
+For questions, email digitalbaku994@gmail.com
