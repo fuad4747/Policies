@@ -4,9 +4,11 @@ Effective Date: December 30, 2026
 This Privacy Policy describes how We collect, use, and share information when you use our application, "Social AI SEO", which integrates with the Meta Platform (Facebook and Instagram).
 
 1. Information We Collect
-To provide profile management and messaging services, we access certain information via Meta APIs (the "Platform Data"). This only occurs after you grant explicit permission through the Meta Login/Permissions dialog.
+To provide profile management and messaging services, we access certain information via Meta APIs (the "Platform Data"). 
+This only occurs after you grant explicit permission through the Meta Login/Permissions dialog.
 Account Information: Your name, profile picture, and account ID to identify you within the App.
-Messaging Content: When using our Messenger or Instagram Direct features, we process the content of messages, sender details, and timestamps to display them in our interface and allow you to reply.
+Messaging Content: When using our Messenger or Instagram Direct features, we process the content of messages, sender details, 
+and timestamps to display them in our interface and allow you to reply.
 Engagement Data: Comments on your posts, likes, and mentions to enable you to moderate and respond to your audience.
 Media & Posts: Images, videos, and captions from your profile to help you manage and view your content.
 
@@ -21,9 +23,33 @@ We do not sell your personal data or Platform Data to third parties.
 
 3. Data Retention and Deletion
 We only retain Platform Data for as long as necessary to provide the services you requested.
-User-Requested Deletion: You may request the deletion of your data at any time by contacting us at [Your Email Address].
+User-Requested Deletion: You may request the deletion of your data at any time by contacting us at digitalbaku994@gmail.com.
 Revoking Access: You can revoke our App’s access to your Meta account via your Facebook or Instagram "Settings > Apps and Websites" menu.
-Meta Compliance: We comply with Meta’s Data Deletion requirements. When you delete our App from your Meta account, we will trigger a process to remove your associated Platform Data from our servers within [Number, e.g., 30] days.
+Meta Compliance: We comply with Meta’s Data Deletion requirements. When you delete our App from your Meta account, we will trigger a process 
+to remove your associated Platform Data from our servers within [Number, e.g., 30] days.
+
+3.1 Data Deletion Instructions
+"Social AI SEO" respects your privacy and provides a transparent way for you to request the deletion of any data we have collected 
+from your Meta (Facebook or Instagram) accounts.
+
+According to Meta Platform rules, we provide a User Data Deletion Callback URL or a set of instructions to help you exercise your rights.
+
+Step 1: Revoke App Access via Meta
+To stop our app from accessing your data moving forward, follow these steps:
+Go to your Instagram or Facebook Profile’s Settings & Privacy > Settings.
+Look for Apps and Websites in the left-hand menu.
+Locate "Social AI SEO" and click the Remove button.
+
+Step 2: Request Permanent Data Deletion
+While the step above stops future access, we may still have cached data or logs. To permanently delete all stored data from our servers, please choose one of the following:
+Option A (Manual Request): Email us at digitalbaku994@gmail.com with the subject line "Data Deletion Request." Please include your name or the unique User ID associated with the app. 
+We will process your request and delete all associated records within 30 days.
+Option B (In-App Deletion): Login to your account on "Social AI SEO", navigate to Settings > Account, and click "Delete Account." 
+This will instantly trigger a deletion of all your stored Platform Data.
+
+Step 3: Confirmation
+Once your data has been deleted, you will no longer be able to manage your profiles or messages through our dashboard. If you requested deletion via email, 
+you will receive a confirmation message once the process is complete.
 
 4. Sharing of Information
 We only share your information in the following limited circumstances:
@@ -32,7 +58,7 @@ Service Providers: We may use third-party hosting (like AWS or Google Cloud) to 
 Legal Requirements: If required by law, subpoena, or to protect the safety of our users.
 
 5. Security
-We implement industry-standard security measures to protect your access tokens and message content. This includes [mention one or two, e.g., "AES-256 encryption for data at rest" and "SSL/TLS encryption for data in transit"].
+We implement industry-standard security measures to protect your access tokens and message content. This includes "SSL/TLS encryption for data in transit".
 
 6. Your Rights
 Depending on your location (e.g., GDPR in Europe, CCPA in California), you may have the right to:
@@ -42,4 +68,4 @@ Request that we correct or delete your data.
 
 7. Contact Us
 If you have questions about this policy or wish to exercise your data rights, please contact us at:
-DigitalBaku Email:digitalbaku994@gmail.com Website:
+DigitalBaku Email: digitalbaku994@gmail.com
