@@ -25,7 +25,7 @@ We do not sell your personal data or messaging content to third parties.
 3. Data Retention and Deletion
 We only retain Platform Data for as long as necessary to provide the services you requested.
 User-Requested Deletion: You may request the deletion of your data at any time by contacting us at digitalbaku994@gmail.com.
-Automatic Deletion: We periodically purge conversation logs that are older than [e.g., 90 days] unless retention is required for active service.
+Automatic Deletion: We periodically purge conversation logs that are older than 90 days unless retention is required for active service.
 Meta Compliance: We comply with Meta’s Platform Terms. Upon a valid deletion request, we will remove your associated data from our servers within 30 days.
 Data Deletion Instructions
 "AI Chatbot" provides a transparent way for you to request the deletion of any data collected from your WhatsApp interaction.
@@ -34,14 +34,13 @@ Step 1: Opt-Out of Messaging
 To stop receiving messages and revoke our app's ability to contact you:
 Open the chat with "AI Chatbot" in WhatsApp.
 Tap the Business Name at the top.
-
 Scroll down and select Block Business or Report & Block.
+
 Step 2: Request Permanent Data Deletion
 To permanently delete your chat logs and phone number from our database, choose one of the following:
-Option A (Email Request): Send an email to digitalbaku994@gmail.com with the subject "WhatsApp Data Deletion." You must include the phone number 
+Email Request: Send an email to digitalbaku994@gmail.com with the subject "WhatsApp Data Deletion." You must include the phone number 
 (in international format, e.g., +994...) used to interact with the bot.
-Option B (Chat Command): Type the command "Forget Me" or "Delete My Data" inside the WhatsApp chat. If our automated system is active, it will
-trigger a deletion of your session data.
+
 
 Step 3: Confirmation
 If requested via email, we will send a confirmation once your data has been purged. Please note that once deleted, your chat history with the 
@@ -55,9 +54,10 @@ your data to train their global models when sent via our secure API.
 Legal Requirements: If required by law or to protect the safety of our users.
 
 5. Security and Encryption
-WhatsApp messages are protected by end-to-end encryption between your device and the WhatsApp Business API. Once received by our App:
+WhatsApp messages are protected by end-to-end encryption between your device and the WhatsApp Business API. 
+Once received by our App:
 We use SSL/TLS encryption for all data in transit.
-Stored data is protected using [mention your security, e.g., "AES-256 encryption"].
+Stored data is protected using AES-256 encryption.
 
 6. Contact Us
 DigitalBaku Email: digitalbaku994@gmail.com
