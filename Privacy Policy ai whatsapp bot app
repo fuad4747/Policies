@@ -1,71 +1,63 @@
-Privacy Policy for "Social AI SEO"
+Privacy Policy for "AI Chatbot"
 Effective Date: December 30, 2026
 
-This Privacy Policy describes how We collect, use, and share information when you use our application, "Social AI SEO", which integrates with the Meta Platform (Facebook and Instagram).
+This Privacy Policy describes how we collect, use, and share information when you interact with our application, "AI Chatbot", which integrates with the 
+Meta Platform via the WhatsApp Business API.
 
 1. Information We Collect
-To provide profile management and messaging services, we access certain information via Meta APIs (the "Platform Data"). 
-This only occurs after you grant explicit permission through the Meta Login/Permissions dialog.
-Account Information: Your name, profile picture, and account ID to identify you within the App.
-Messaging Content: When using our Messenger or Instagram Direct features, we process the content of messages, sender details, 
-and timestamps to display them in our interface and allow you to reply.
-Engagement Data: Comments on your posts, likes, and mentions to enable you to moderate and respond to your audience.
-Media & Posts: Images, videos, and captions from your profile to help you manage and view your content.
+To provide automated chat services, we access certain information via Meta APIs (the "Platform Data"). This occurs when you initiate a conversation with our 
+chatbot or grant permission through a Meta-authorized entry point.
+Contact Information: Your WhatsApp phone number (required to route messages) and your WhatsApp profile name.
+Messaging Content: We process the text, images, or media you send to the chatbot to generate AI responses. We also store timestamps and message status 
+(sent/delivered/read) for service optimization.
+User-Provided Data: Any information you voluntarily share during a chat session (e.g., email address or account details provided to the AI for support).
+What we DO NOT collect: We do not access your private WhatsApp contact list, your personal status updates, or messages sent to other people/groups 
+outside of this specific chat.
 
 2. How We Use Your Information
-We use the data collected strictly to provide the App's core functionality, including:
-
-Displaying your Facebook/Instagram inbox and comment threads.
-Allowing you to post, reply, or delete comments and messages.
-Providing analytics and profile management tools.
-Authenticating your identity and maintaining your session.
-We do not sell your personal data or Platform Data to third parties.
+We use your data strictly to provide the AI Chatbot's core functionality, including:
+Processing your inquiries and providing AI-generated responses.
+Personalizing the chat experience based on your previous interactions (where permitted).
+Maintaining a log of your conversation history so you can resume chats later.
+Analyzing chatbot performance to improve AI accuracy.
+We do not sell your personal data or messaging content to third parties.
 
 3. Data Retention and Deletion
 We only retain Platform Data for as long as necessary to provide the services you requested.
 User-Requested Deletion: You may request the deletion of your data at any time by contacting us at digitalbaku994@gmail.com.
-Revoking Access: You can revoke our App’s access to your Meta account via your Facebook or Instagram "Settings > Apps and Websites" menu.
-Meta Compliance: We comply with Meta’s Data Deletion requirements. When you delete our App from your Meta account, we will trigger a process 
-to remove your associated Platform Data from our servers within [Number, e.g., 30] days.
+Automatic Deletion: We periodically purge conversation logs that are older than [e.g., 90 days] unless retention is required for active service.
+Meta Compliance: We comply with Meta’s Platform Terms. Upon a valid deletion request, we will remove your associated data from our servers within 30 days.
+Data Deletion Instructions
+"AI Chatbot" provides a transparent way for you to request the deletion of any data collected from your WhatsApp interaction.
 
-3.1 Data Deletion Instructions
-"Social AI SEO" respects your privacy and provides a transparent way for you to request the deletion of any data we have collected 
-from your Meta (Facebook or Instagram) accounts.
+Step 1: Opt-Out of Messaging
+To stop receiving messages and revoke our app's ability to contact you:
+Open the chat with "AI Chatbot" in WhatsApp.
+Tap the Business Name at the top.
 
-According to Meta Platform rules, we provide a User Data Deletion Callback URL or a set of instructions to help you exercise your rights.
-
-Step 1: Revoke App Access via Meta
-To stop our app from accessing your data moving forward, follow these steps:
-Go to your Instagram or Facebook Profile’s Settings & Privacy > Settings.
-Look for Apps and Websites in the left-hand menu.
-Locate "Social AI SEO" and click the Remove button.
-
+Scroll down and select Block Business or Report & Block.
 Step 2: Request Permanent Data Deletion
-While the step above stops future access, we may still have cached data or logs. To permanently delete all stored data from our servers, please choose one of the following:
-Option A (Manual Request): Email us at digitalbaku994@gmail.com with the subject line "Data Deletion Request." Please include your name or the unique User ID associated with the app. 
-We will process your request and delete all associated records within 30 days.
-Option B (In-App Deletion): Login to your account on "Social AI SEO", navigate to Settings > Account, and click "Delete Account." 
-This will instantly trigger a deletion of all your stored Platform Data.
+To permanently delete your chat logs and phone number from our database, choose one of the following:
+Option A (Email Request): Send an email to digitalbaku994@gmail.com with the subject "WhatsApp Data Deletion." You must include the phone number 
+(in international format, e.g., +994...) used to interact with the bot.
+Option B (Chat Command): Type the command "Forget Me" or "Delete My Data" inside the WhatsApp chat. If our automated system is active, it will
+trigger a deletion of your session data.
 
 Step 3: Confirmation
-Once your data has been deleted, you will no longer be able to manage your profiles or messages through our dashboard. If you requested deletion via email, 
-you will receive a confirmation message once the process is complete.
+If requested via email, we will send a confirmation once your data has been purged. Please note that once deleted, your chat history with the 
+AI cannot be recovered.
 
 4. Sharing of Information
-We only share your information in the following limited circumstances:
-With Meta: To perform the actions you trigger in the App (e.g., sending a reply).
-Service Providers: We may use third-party hosting (like AWS or Google Cloud) to store data; these providers are contractually prohibited from using your data for any other purpose.
-Legal Requirements: If required by law, subpoena, or to protect the safety of our users.
+We only share your information in these limited circumstances:
+With Meta: To transmit messages through the WhatsApp Business Platform.
+AI Processors: We may process your text through secure AI models (e.g., OpenAI or Meta Llama) to generate responses. These providers do not use 
+your data to train their global models when sent via our secure API.
+Legal Requirements: If required by law or to protect the safety of our users.
 
-5. Security
-We implement industry-standard security measures to protect your access tokens and message content. This includes "SSL/TLS encryption for data in transit".
+5. Security and Encryption
+WhatsApp messages are protected by end-to-end encryption between your device and the WhatsApp Business API. Once received by our App:
+We use SSL/TLS encryption for all data in transit.
+Stored data is protected using [mention your security, e.g., "AES-256 encryption"].
 
-6. Your Rights
-Depending on your location (e.g., GDPR in Europe, CCPA in California), you may have the right to:
-Access the personal data we hold about you.
-Request a copy of your data in a portable format.
-Request that we correct or delete your data.
-
-7. Contact Us
-If you have questions about this policy or wish to exercise your data rights, please contact us at:
+6. Contact Us
 DigitalBaku Email: digitalbaku994@gmail.com
