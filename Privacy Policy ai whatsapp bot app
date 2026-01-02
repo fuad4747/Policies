@@ -51,7 +51,10 @@ We only share your information in these limited circumstances:
 With Meta: To transmit messages through the WhatsApp Business Platform.
 AI Processors: We may process your text through secure AI models (e.g., OpenAI or Meta Llama) to generate responses. These providers do not use 
 your data to train their global models when sent via our secure API.
-Legal Requirements: If required by law or to protect the safety of our users.
+
+Legal Requirements: 
+If required by law or to protect the safety of our users. We will only disclose user data if required 
+by a valid legal order (subpoena/warrant) and will attempt to minimize the data provided to what is legally necessary.
 
 5. Security and Encryption
 WhatsApp messages are protected by end-to-end encryption between your device and the WhatsApp Business API. 
