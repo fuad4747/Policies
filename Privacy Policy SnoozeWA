@@ -1,0 +1,48 @@
+Privacy and User Policy
+Effective Date: July 26, 2026
+
+1. Introduction
+This policy outlines how our application handles user privacy and network routing. We believe in total 
+transparency and privacy-first design: we do not collect, store, or monitor any of your personal data or messaging activity.
+
+2. Data Collection and Usage
+No Personal Data Collected: We do not collect, ask for, or store names, email addresses, phone numbers, contacts, or chat logs.
+
+No Message Tracking: We do not read, intercept, or log any messages, notifications, or app usage data.
+
+Zero Logging: Your network traffic and routing preferences remain completely local to your device.
+
+3. Network Configuration & Cloudflare 1.1.1.1
+Proxy and DNS Direction: To enable app functionality, the app adjusts your local device proxy/DNS settings to direct DNS 
+resolution and traffic through Cloudflare’s public DNS service (1.1.1.1).
+
+Third-Party Service: Traffic directed to 1.1.1.1 is handled directly by Cloudflare, Inc. according to their public
+privacy commitment (which explicitly pledges not to sell user data or log IP addresses permanently).
+
+No Traffic Inspection: We do not route your traffic through any private or intermediate servers owned by us.
+
+4. Data Storage and Retention
+App Settings: Any configuration preferences (such as enabling or disabling the app toggle) are stored locally on your device.
+
+No Server Storage: Because we operate no external databases or logging systems for user activity, no remote user 
+data exists to retain, backup, or sell.
+
+5. Security
+Direct Connection: Traffic routed via Cloudflare’s 1.1.1.1 benefits from standard transport encryption protocol protections.
+
+No Data Monetization: We never sell, share, or monetize any user interactions or network metrics.
+
+6. User Control and Rights
+Full Control: You can enable or disable the app’s proxy settings at any time directly within the app interface or
+via your Android system settings.
+
+App Removal: Uninstalling the app completely removes all local settings and reverts your network configuration back 
+to system defaults.
+
+7. Changes to Policy
+We may update this policy periodically to reflect app updates or legal requirements. Any modifications will be updated 
+directly within the application or listing.
+
+8. Contact
+For support or questions regarding this policy, please reach out to us at:
+Email: digitalbaku994@gmail.com
